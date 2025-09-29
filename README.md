@@ -69,28 +69,7 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 - **Credit cards dominate transactions (74% of total revenue)**, while **e-wallet adoption remains low**.  
 - **Promoting digital payment incentives** can increase checkout conversion rates.  
 
----
-
-## 💡 **Business Recommendations**  
-📌 **Optimize Order Processing Efficiency**  
-   - Implement **automation in warehouses** to reduce the average processing time (currently 5.25 days).  
-   - Introduce **real-time order tracking** to enhance transparency and customer trust.  
-
-📌 **Increase Revenue with Targeted Promotions**  
-   - Leverage **seasonal sales trends** by launching exclusive discounts during peak months.  
-   - Promote **high-ranking products (T-Shirts, Watches, and Shoes)** through advertising.  
-
-📌 **Improve Customer Retention Strategies**  
-   - Create **personalized offers for repeat customers** based on purchase history.  
-   - Implement a **loyalty program** to encourage repeat spending.  
-
-📌 **Reduce Shipping Costs Without Affecting Delivery Time**  
-   - Offer **free standard shipping for bulk orders** to reduce per-item logistics costs.  
-   - Optimize **partnerships with shipping carriers** for discounted high-priority shipping rates.  
-
-📌 **Enhance Payment Flexibility & Checkout Experience**  
-   - Encourage **e-wallet and debit card transactions** by offering cashback incentives.  
-   - Introduce **Buy Now, Pay Later (BNPL) options** to reduce cart abandonment.  
+--- 
 
 ---
 
@@ -102,14 +81,6 @@ This project incorporates **Advanced SQL Techniques** to improve query performan
 - **Development Environment**: Jupyter Notebook  
 
 ---
-
-## 📂 **Project Files & Repository Structure**  
-📁 `Ecommerce_SQL_DATAProject.db` – SQLite database file  
-📁 `ecommerce_schema.sql` – Collection of SQL scripts used in analysis  
-📁 `E_Commerce_Analysis_using_Advanced_SQL.ipynb` – Jupyter Notebook for SQL execution & visualization  
-📁 `E_Commerce_Analysis_using_Advanced_SQL.html` – Summary of key insights & recommendations  
-📁 `README.md` – Documentation for project overview and findings  
-
 ---
 
 ## 🛠 **How to Run the Project**  
@@ -121,19 +92,6 @@ cd ecommerce-sql-analysis
 2️⃣ **Load the database (`Ecommerce_SQL_DATAProject.db`) into SQLite or DB Browser for SQLite.**  
 3️⃣ **Execute SQL queries from `ecommerce_schema.sql` to explore insights.**  
 4️⃣ **Run `E_Commerce_Analysis_using_Advanced_SQL.ipynb` in Jupyter Notebook to visualize trends using Python.**  
-
----
-
-## 🔮 **Future Enhancements**  
-📌 **Use Machine Learning** to predict future sales trends.  
-📌 **Enhance customer segmentation with clustering algorithms.**  
-📌 **Develop an interactive dashboard using Power BI or Tableau.**  
-
----
-
 ## 👤 **Author**  
-🔹 **Lasya Priya Konduru**  
-📧 **konduru.lasya@gmail.com**  
-🔗 **LinkedIn: (https://www.linkedin.com/in/lasya-priya-k/)**  
+🔹 **Abrar Qureshi**  
 
-If you found this project useful, **⭐ Star this repository** and feel free to contribute! 🚀
